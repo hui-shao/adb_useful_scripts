@@ -2,8 +2,8 @@
 收录、编写了一些实用的adb脚本   
 
 <p align="center">
-<img src="https://img.shields.io/badge/license-mit-lightgrey.svg?longCache=true&style=for-the-badge">
-<img src="https://img.shields.io/badge/version-1.0-green.svg?longCache=true&style=for-the-badge">
+<img src="https://img.shields.io/github/license/hui-shao/adb_useful_scripts?color=lightgrey&style=for-the-badge">
+<img src="https://img.shields.io/github/release/hui-shao/adb_useful_scripts?color=green&style=for-the-badge">
 <a href="http://www.miui.com/home.php?mod=space&uid=1561677869"><img src="https://img.shields.io/badge/MIUI论坛-@浅蓝的灯-orange.svg?longCache=true&style=for-the-badge"></a>
 </p>
 
